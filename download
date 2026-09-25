@@ -1,0 +1,8 @@
+# Local OS files
+.DS_Store
+Thumbs.db
+
+# Optional local Python environment
+__pycache__/
+*.py[cod]
+.venv/
